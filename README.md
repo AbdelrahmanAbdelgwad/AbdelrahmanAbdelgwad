@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on improving Openbot robot presented by intel
 - 🌱 I’m currently learning Automatic Control using Simulink, Machine Learning, Mechanical Design
 - 👯 I’m looking to collaborate on Robotics Projects
-- 📫 How to reach me: abdelrahman.abdelgawad@ejust.edu.eg
+- 📫 How to reach me: Email: abdelrahman.abdelgawad@ejust.edu.eg // [Facebook](https://www.facebook.com/abdelrahman.omar.355) // [LinkedIn](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
 
 
 
