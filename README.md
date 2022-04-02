@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there, I am a Mechatronics Engineer
+
+- 👋 I am Abdelrahman Ahmed Abdelgawad
+- 🔭 I’m currently working on improving Openbot robot presented by intel
+- 🌱 I’m currently learning Automatic Control using Simulink, Machine Learning, Mechanical Design
+- 👯 I’m looking to collaborate on Robotics Projects
+- 📫 How to reach me: abdelrahman.abdelgawad@ejust.edu.eg
+
+
+
 
 <!--
 **AbdelrahmanAbdelgwad/AbdelrahmanAbdelgwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
