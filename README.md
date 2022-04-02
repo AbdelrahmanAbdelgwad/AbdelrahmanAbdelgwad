@@ -7,7 +7,7 @@
 - 📫 How to reach me: Email: abdelrahman.abdelgawad@ejust.edu.eg
 
 ### Connect with me
- [Facebook](https://www.facebook.com/abdelrahman.omar.355)   [LinkedIn](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
+ [![](imgs/Facebook-icon-with-flat-design-on-transparent-background-PNG.png)](https://www.facebook.com/abdelrahman.omar.355)   [LinkedIn](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
 
 
 <!--
