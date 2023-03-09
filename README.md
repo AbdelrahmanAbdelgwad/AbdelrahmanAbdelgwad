@@ -1,10 +1,13 @@
 ### Hello there, I am a Mechatronics Engineer
 
-- 👋 I am Abdelrahman Ahmed Abdelgawad
-- 🔭 I’m currently working on Autonomous Navigaion using RL
-- 🌱 I’m currently learning Automatic Control using MATLAB, Machine Learning, and Mechanical Design
-- 👯 I’m looking to collaborate on Robotics Projects
+- 👋 Hi, I am @AbdelrahmanAbdelgwad
+- 👀 I am interested in Robotics, Machine Learning, Automatic Control, and Computer Vision.
+- 🌱 I’m currently learning Robust Control using H Infinity and Mu Synthesis
+- 👯 I’m looking to collaborate with other researchers in the field of Robotics and AI
+- 📰 Checkout my latest publication: [A study on broadcast network for music genre classification](https://ieeexplore.ieee.org/abstract/document/9892651)
 - 📫 How to reach me: Email: abdelrahman.abdelgawad@ejust.edu.eg
+
+I am currently working on developing an autonomous navigation agent using multi-level reinforcement learning.
 
 ### Connect with me
 [<img src = "imgs/Facebook-icon-with-flat-design-on-transparent-background-PNG.png" width = 50>](https://www.facebook.com/abdelrahman.omar.355) [<img src = "imgs/Linkedin-logo-transparent-PNG.png" width = 50>](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
