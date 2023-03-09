@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning Robust Control using H Infinity and Mu Synthesis
 - 👯 I’m looking to collaborate with other researchers in the field of Robotics and AI
 - 📰 Checkout my latest publication: [A study on broadcast network for music genre classification](https://ieeexplore.ieee.org/abstract/document/9892651)
-- 📫 How to reach me: Email: abdelrahman.abdelgawad@ejust.edu.eg
 
 I am currently working on developing an autonomous navigation agent using multi-level reinforcement learning.
 
 ### Connect with me
+[![Gmail Badge](https://img.shields.io/badge/-abdelrahman.abdelgawad@ejust.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrahman.abdelgawad@ejust.edu.eg)](mailto:abdelrahman.abdelgawad@ejust.edu.eg)
 [<img src = "imgs/Linkedin-logo-transparent-PNG.png" width = 50>](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
 
 
