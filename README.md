@@ -11,6 +11,13 @@ I am currently working on developing an autonomous navigation agent using multi-
 ### Connect with me
 [![Gmail Badge](https://img.shields.io/badge/-abdelrahman.abdelgawad@ejust.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrahman.abdelgawad@ejust.edu.eg)](mailto:abdelrahman.abdelgawad@ejust.edu.eg)
 [![Linkedin Badge](https://img.shields.io/badge/-AbdelrahmanAbdelgawad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-abdelgawad/)](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
+---
+
+
+---
+
+&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanAbdelgwad&count_private=true&theme=cobalt)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAbdelgwad&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [<img src = "imgs/Linkedin-logo-transparent-PNG.png" width = 20>](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
