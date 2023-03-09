@@ -1,4 +1,4 @@
-### I am a Robotics/Control/Machine Learning Engineer
+### I am a Robotics / Control / Machine Learning Engineer
 
 - 👋 Hi, I am @AbdelrahmanAbdelgwad
 - 👀 I am interested in Robotics, Machine Learning, Automatic Control, and Computer Vision.
