@@ -10,8 +10,11 @@ I am currently working on developing an autonomous navigation agent using multi-
 
 ### Connect with me
 [![Gmail Badge](https://img.shields.io/badge/-abdelrahman.abdelgawad@ejust.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrahman.abdelgawad@ejust.edu.eg)](mailto:abdelrahman.abdelgawad@ejust.edu.eg)
-[<img src = "imgs/Linkedin-logo-transparent-PNG.png" width = 50>](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
+[![Linkedin Badge](https://img.shields.io/badge/-AbdelrahmanAbdelgawad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-abdelgawad/)](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
 
+<!--
+[<img src = "imgs/Linkedin-logo-transparent-PNG.png" width = 20>](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
+-->
 
 <!--
 **AbdelrahmanAbdelgwad/AbdelrahmanAbdelgwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
