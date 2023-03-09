@@ -16,7 +16,7 @@ I am currently working on developing an autonomous navigation agent using multi-
 
 ---
  
-&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanAbdelgwad&count_private=true&theme=cobalt)&nbsp;&nbsp;&nbsp;
+&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanAbdelgwad&count_private=true&theme=radical)&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAbdelgwad&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
