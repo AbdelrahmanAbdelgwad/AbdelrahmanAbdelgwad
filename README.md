@@ -10,7 +10,7 @@
 I am currently working on developing an autonomous navigation agent using multi-level reinforcement learning.
 
 ### Connect with me
-[<img src = "imgs/Facebook-icon-with-flat-design-on-transparent-background-PNG.png" width = 50>](https://www.facebook.com/abdelrahman.omar.355) [<img src = "imgs/Linkedin-logo-transparent-PNG.png" width = 50>](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
+[<img src = "imgs/Linkedin-logo-transparent-PNG.png" width = 50>](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
 
 
 <!--
