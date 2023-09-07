@@ -2,11 +2,9 @@
 
 - 👋 Hi, I am @AbdelrahmanAbdelgwad
 - 👀 I am interested in Robotics, Machine Learning, Automatic Control, and Computer Vision.
-- 🌱 I’m currently learning Robust Control using H Infinity and Mu Synthesis
+- 🌱 I’m currently working on my graduation thesis on haptic-shared-autonomy
 - 👯 I’m looking to collaborate with other researchers in the field of Robotics and AI
 - 📰 Checkout my latest publication: [A study on broadcast network for music genre classification](https://ieeexplore.ieee.org/abstract/document/9892651)
-
-I am currently working on developing an autonomous navigation agent using multi-level reinforcement learning.
 
 ### Connect with me
 [![Gmail Badge](https://img.shields.io/badge/-abdelrahman.abdelgawad@ejust.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrahman.abdelgawad@ejust.edu.eg)](mailto:abdelrahman.abdelgawad@ejust.edu.eg)
