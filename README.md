@@ -1,10 +1,10 @@
 ### I am a Robotics / Control / Machine Learning Engineer
 
-- 👋 Hi, I am @AbdelrahmanAbdelgwad
-- 👀 I am interested in Robotics, Machine Learning, Automatic Control, and Computer Vision.
-- 🌱 I’m currently working on my graduation thesis on haptic-shared-autonomy
-- 👯 I’m looking to collaborate with other researchers in the field of Robotics and AI
-- 📰 Checkout my latest publication: [A study on broadcast network for music genre classification](https://ieeexplore.ieee.org/abstract/document/9892651)
+- 👋 Hi, I am @AbdelrahmanAbdelgwad.
+- 👀 I am interested in Robotics, Machine Learning, and Automatic Control.
+- 🌱 I’m currently doing my PhD in Systems Engineering at Boston University.
+- 👯 I’m looking to collaborate with other researchers in the field of Robotics and AI.
+- 📰 Checkout my [Google Scholar]([https://ieeexplore.ieee.org/abstract/document/9892651](https://scholar.google.com/citations?user=qrq_piYAAAAJ&hl=en))
 
 ### Connect with me
 [![Gmail Badge](https://img.shields.io/badge/-abdelrahman.abdelgawad@ejust.edu.eg-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdelrahman.abdelgawad@ejust.edu.eg)](mailto:abdelrahman.abdelgawad@ejust.edu.eg)
