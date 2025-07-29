@@ -1,8 +1,10 @@
-### Abdelrahman Abdelgawad
-
-Abdelrahman Abdelgawad is a Systems Engineering PhD candidate at the Boston University Robotics Lab. His research focuses on learning-based control and navigation for intelligent robotic systems, specifically integrating machine learning with classical control theory to enable autonomous decision-making in complex environments. His work bridges the gap between data-driven learning approaches and established control methodologies for advanced robotic applications.
-
-📰 Checkout my [Google Scholar](https://scholar.google.com/citations?user=qrq_piYAAAAJ&hl=en)
+### I am a Robotics / Control / Machine Learning Engineer
+- 👋 Hi, I am @AbdelrahmanAbdelgwad.
+- 🤖 I focus on learning-based control and navigation for intelligent robotic systems.
+- 🧠 I'm bridging machine learning with classical control theory for autonomous decision-making.
+- 🌱 I'm currently doing my PhD in Systems Engineering at Boston University Robotics Lab.
+- 👯 I'm looking to collaborate with other researchers in data-driven approaches and control methodologies.
+- 📰 Checkout my [Google Scholar](https://scholar.google.com/citations?user=qrq_piYAAAAJ&hl=en)
 ### Connect with me
 [![Gmail Badge](https://img.shields.io/badge/-aaoaa@bu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaoaa@bu.edu)](mailto:aaoaa@bu.edu)
 [![Linkedin Badge](https://img.shields.io/badge/-AbdelrahmanAbdelgawad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrahman-abdelgawad/)](https://www.linkedin.com/in/abdelrahman-abdelgawad-88a24a225/)
