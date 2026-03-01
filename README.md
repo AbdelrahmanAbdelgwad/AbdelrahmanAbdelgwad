@@ -6,7 +6,7 @@ I develop methods for making neural network controllers formally certifiable for
 
 **Research focus:** Certified neural control, neural Lyapunov functions, multi-objective RL.
 
-**Advisors:** [Roberto Tron](https://sites.bu.edu/tron/) and [Sean B. Andersson](https://www.bu.edu/anderssonlab/) | **Collaborating:** [Renato Mancuso]([https://rmancuso.faculty.cs.bu.edu/)(https://cs-people.bu.edu/rmancuso/))
+**Advisors:** [Roberto Tron](https://sites.bu.edu/tron/) and [Sean B. Andersson](https://www.bu.edu/anderssonlab/) | **Collaborating:** [Renato Mancuso](https://rmancuso.faculty.cs.bu.edu/)(https://cs-people.bu.edu/rmancuso/))
 
 ### Selected Publications
 
