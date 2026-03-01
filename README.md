@@ -1,6 +1,6 @@
 ## Abdelrahman Abdelgawad
 
-PhD Student in Systems Engineering at [Boston University](https://www.bu.edu/systems/) | [BU Robotics Lab](https://sites.bu.edu/robotics/)
+PhD Student in Systems Engineering at [Boston University]([https://www.bu.edu/systems/](https://www.bu.edu/eng/academics/departments-and-divisions/systems-engineering/)) | [BU Robotics Lab](https://sites.bu.edu/robotics/)
 
 I develop methods for making neural network controllers formally certifiable for safety-critical robotic systems — working at the intersection of control theory, machine learning, and formal verification.
 
