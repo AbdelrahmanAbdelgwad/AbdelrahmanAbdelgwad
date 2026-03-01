@@ -4,7 +4,7 @@ PhD Student in Systems Engineering at [Boston University](https://www.bu.edu/eng
 
 I develop methods for making neural network controllers formally certifiable for safety-critical robotic systems — working at the intersection of control theory, machine learning, and formal verification.
 
-**Research focus:** Certified neural control, neural Lyapunov functions, multi-objective RL, hybrid systems.
+**Research focus:** Certified neural control, neural Lyapunov functions, multi-objective RL.
 
 **Advisors:** [Roberto Tron](https://sites.bu.edu/tron/) and [Sean B. Andersson](https://sites.bu.edu/andersson/)
 
